@@ -1,8 +1,8 @@
 # Philip Segynola
 
-DevOps / Cloud engineering focus — AWS, Terraform, ECS, CI/CD.
+DevOps / Cloud Engineering Focus — AWS, Terraform, ECS, CI/CD.
 
-Currently building production-style deployments and moving from technical project management into hands-on platform work.
+Currently building production ready AWS Infrastructure.
 
 ## Featured project
 
@@ -10,4 +10,5 @@ Currently building production-style deployments and moving from technical projec
 Flask app on ECS Fargate, RDS PostgreSQL, ALB + HTTPS.  
 Terraform + GitHub Actions. Private tasks, VPC endpoints (no NAT).
 
-**Skills:** AWS · Terraform · Docker · ECS/Fargate · CI/CD · Linux
+**Skills:** AWS · Terraform · Docker · ECS/Fargate · CI/CD · Linux · Kubernetes · Bash Scripting · Python · Ansible · Prometheus and Grafana
+
